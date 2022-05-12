@@ -14,7 +14,7 @@
 
 **Một vòng đời của Log**
 
-- Bao gồm 5 bước chính được minh họa trong hình trên cụ thể là:
+ Bao gồm 5 bước chính được minh họa trong hình trên cụ thể là:
 
 + Đầu tiên log sẽ được ghi lại tại chính máy local sau đó nó sẽ được vận chuyển sang máy chủ quản lý log.
 
